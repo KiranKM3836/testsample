@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/kirankm3836/testsample/
+    url: https://drive.google.com/drive/folders/1j19G9jDqdg30DfY5CoCha8aLr4vEzmvC
     type: markup
 
 folders:
